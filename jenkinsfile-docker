@@ -1,1 +1,8 @@
-
+@Library('TODO') _
+docker (
+    COMPONENT         : "frontend",
+    PROJECT_NAME      :"TODO",
+    SLAVE_LABEL       : "node1",
+ 
+         
+)
